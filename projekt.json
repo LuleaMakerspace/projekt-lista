@@ -11,5 +11,12 @@
         "author": "Einar Cederlund",
         "image": "https://files.voze.co/foton/Pico8SpelSylt201813-1.jpg",
         "links": ["https://www.lexaloffle.com/bbs/?tid=31857"]
+    },
+    {
+        "title": "Racing² Remastered",
+        "description": "Spel gjort på PICO-8 jam.",
+        "author": "Joel Nykänen",
+        "image": "https://files.voze.co/foton/Pico8SpelSylt201815.jpg",
+        "links": ["https://www.lexaloffle.com/bbs/?tid=31891"]
     }
 ]
