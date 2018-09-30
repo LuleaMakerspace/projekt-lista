@@ -1,11 +1,8 @@
 [
     {
-        "title": "TEST",
-        "description": "test test test test test test",
-        "author": "TEST",
-        "tags": ["pIcO-8", "PICO-9"],
-        "links": ["https://www.lexaloffle.com/bbs/?tid=31891",
-                 "https://www.lexaloffle.com/bbs/?tid=31891"],
-        "image": "https://placekitten.com/g/400/450"
+        "title": "Farming Simulator",
+        "description": "Spel gjort på PICO-8 jam.",
+        "author": "Nils Robles",
+        "image": "https://files.voze.co/foton/Pico8SpelSylt20189-1.jpg"
     }
 ]
