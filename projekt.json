@@ -18,5 +18,12 @@
         "author": "Joel Nykänen",
         "image": "https://files.voze.co/foton/Pico8SpelSylt201815.jpg",
         "links": ["https://www.lexaloffle.com/bbs/?tid=31891"]
+    },
+    {
+        "title": "E10 – Dödens Väg",
+        "description": "Spel gjort på PICO-8 jam.",
+        "author": "Anton Olason",
+        "image": "https://files.voze.co/foton/Pico8SpelSylt201811.jpg",
+        "links": ["https://www.lexaloffle.com/bbs/?tid=31839"]
     }
 ]
