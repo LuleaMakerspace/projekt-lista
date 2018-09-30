@@ -4,5 +4,12 @@
         "description": "Spel gjort på PICO-8 jam.",
         "author": "Nils Robles",
         "image": "https://files.voze.co/foton/Pico8SpelSylt20189-1.jpg"
+    },
+    {
+        "title": "Car Drifter",
+        "description": "Spel gjort på PICO-8 jam.",
+        "author": "Einar Cederlund",
+        "image": "https://files.voze.co/foton/Pico8SpelSylt201813-1.jpg",
+        "links": ["https://www.lexaloffle.com/bbs/?tid=31857"]
     }
 ]
