@@ -25,5 +25,12 @@
         "author": "Anton Olason",
         "image": "https://files.voze.co/foton/Pico8SpelSylt201811.jpg",
         "links": ["https://www.lexaloffle.com/bbs/?tid=31839"]
+    },
+    {
+        "title": "Ultra Stone Sky",
+        "description": "Spel gjort på PICO-8 jam.",
+        "author": "Christoffer Lundberg",
+        "image": "https://files.voze.co/foton/Pico8SpelSylt201817-1.jpg",
+        "links": ["https://www.lexaloffle.com/bbs/?tid=31820"]
     }
 ]
