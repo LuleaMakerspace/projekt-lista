@@ -53,5 +53,19 @@
         "author": "Christoffer Lundberg",
         "image": "https://ushallplay.files.wordpress.com/2018/08/astrospider-screenshot2.png",
         "links": ["https://www.scirra.com/arcade/action-games/astro-spider-ld42-33798"]
+    },
+    {
+        "title": "Argon",
+        "description": "Fly från underjorden med ett tvåspaks-plasmagevär laddat med själar!",
+        "author": "Christoffer Lundberg",
+        "image": "https://ushallplay.files.wordpress.com/2017/08/argonicon2.png",
+        "links": ["https://www.scirra.com/arcade/shooting-games/argon-ld39-20389"]
+    },
+    {
+        "title": "The Studie Game",
+        "description": "Planera din första vecka och håll balans mellan sömn, fritid och skolarbete.",
+        "author": "Christoffer Lundberg",
+        "image": "https://ushallplay.files.wordpress.com/2016/11/screenshot-from-2016-11-07-231509.png",
+        "links": ["https://www.scirra.com/arcade/strategy-games/the-studie-game-12358"]
     }
 ]
