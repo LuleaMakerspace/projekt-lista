@@ -39,5 +39,12 @@
         "author": "Christoffer Lundberg",
         "image": "https://ushallplay.files.wordpress.com/2017/05/screenshot-from-2017-05-04-183301.png",
         "links": ["https://www.scirra.com/arcade/action-games/mirror-man-17453"]
+    },
+    {
+        "title": "Secret Maze of Klee",
+        "description": "Kan du hitta alla puzzelbitar i kullabyrintspel med ihopkopplad rum?",
+        "author": "Christoffer Lundberg",
+        "image": "https://ushallplay.files.wordpress.com/2017/02/secret-maze-of-klee-screenshot-3.png",
+        "links": ["https://www.scirra.com/arcade/adventure-games/secret-maze-of-klee-15470"]
     }
 ]
