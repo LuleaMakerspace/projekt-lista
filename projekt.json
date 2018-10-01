@@ -46,5 +46,12 @@
         "author": "Christoffer Lundberg",
         "image": "https://ushallplay.files.wordpress.com/2017/02/secret-maze-of-klee-screenshot-3.png",
         "links": ["https://www.scirra.com/arcade/adventure-games/secret-maze-of-klee-15470"]
+    },
+    {
+        "title": "Astro Spider",
+        "description": "Svinga och explodera dig genom rymden för att rengöra himlen från förorenat ljus!",
+        "author": "Christoffer Lundberg",
+        "image": "https://ushallplay.files.wordpress.com/2018/08/astrospider-screenshot2.png",
+        "links": ["https://www.scirra.com/arcade/action-games/astro-spider-ld42-33798"]
     }
 ]
