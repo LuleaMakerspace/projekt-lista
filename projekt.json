@@ -74,5 +74,12 @@
         "author": "Jonas Roininen",
         "image": "https://files.voze.co/foton/pizzayetis.png",
         "links": ["http://beldrama.com/projects/pizza%20yetis.html", "https://www.youtube.com/watch?v=QXBdWgFk0xo"]
+    },
+    {
+        "title": "Snowball VR",
+        "description": "Snowball VR är spel vi gjorde på Arctic Game Jam i Boden 1-2 april 2017. Temat var snö så det låg nära till hands att göra ett spel i VR där man skulle kasta snöbollar 😉.",
+        "author": "Anton Olason, Filip Andersson, Einar Cederlund, Victor Forsgren",
+        "image": "https://files.voze.co/foton/snowballvr.png",
+        "links": ["https://www.facebook.com/anton.olason/videos/319719071776326/"]
     }
 ]
