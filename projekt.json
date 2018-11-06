@@ -1,36 +1,30 @@
 [
     {
-        "title": "Farming Simulator",
-        "description": "Spel gjort på PICO-8 jam.",
-        "author": "Nils Robles",
-        "image": "https://files.voze.co/foton/Pico8SpelSylt20189-1.jpg"
-    },
-    {
         "title": "Car Drifter",
         "description": "Spel gjort på PICO-8 jam.",
         "author": "Einar Cederlund",
-        "image": "https://files.voze.co/foton/Pico8SpelSylt201813-1.jpg",
+        "image": "https://i.imgur.com/YZFqi56.png",
         "links": ["https://www.lexaloffle.com/bbs/?tid=31857"]
     },
     {
         "title": "Racing² Remastered",
         "description": "Spel gjort på PICO-8 jam.",
         "author": "Joel Nykänen",
-        "image": "https://files.voze.co/foton/Pico8SpelSylt201815.jpg",
+        "image": "https://i.imgur.com/XVpZhAi.png",
         "links": ["https://www.lexaloffle.com/bbs/?tid=31891"]
     },
     {
         "title": "E10 – Dödens Väg",
         "description": "Spel gjort på PICO-8 jam.",
         "author": "Anton Olason",
-        "image": "https://files.voze.co/foton/Pico8SpelSylt201811.jpg",
+        "image": "https://i.imgur.com/oUNRuko.png",
         "links": ["https://www.lexaloffle.com/bbs/?tid=31839", "https://sverigesradio.se/sida/artikel.aspx?programid=98&artikel=7042518"]
     },
     {
         "title": "Ultra Stone Sky",
         "description": "Överlev 120 sekunder i intensive genererad shoot em up action! Spel gjort på PICO-8 jam.",
         "author": "Christoffer Lundberg",
-        "image": "https://files.voze.co/foton/Pico8SpelSylt201817-1.jpg",
+        "image": "https://i.imgur.com/LJNnRM6.png",
         "links": ["https://www.lexaloffle.com/bbs/?tid=31820"]
     },
     {
@@ -79,7 +73,7 @@
         "title": "Snowball VR",
         "description": "Snowball VR är spel vi gjorde på Arctic Game Jam i Boden 1-2 april 2017. Temat var snö så det låg nära till hands att göra ett spel i VR där man skulle kasta snöbollar 😉.",
         "author": "Anton Olason, Filip Andersson, Einar Cederlund, Victor Forsgren",
-        "image": "https://files.voze.co/foton/snowballvr.png",
+        "image": "https://i.imgur.com/vqfAcne.png",
         "links": ["https://www.facebook.com/anton.olason/videos/319719071776326/"]
     }
 ]
