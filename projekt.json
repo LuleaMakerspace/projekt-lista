@@ -75,5 +75,12 @@
         "author": "Anton Olason, Filip Andersson, Einar Cederlund, Victor Forsgren",
         "image": "https://i.imgur.com/vqfAcne.png",
         "links": ["https://www.facebook.com/anton.olason/videos/319719071776326/"]
+    },
+    {
+        "title": "The Real Battle Royale",
+        "description": "Ensam kvar vinner!",
+        "author": "Anton Olason",
+        "links": ["https://olason.se/the-real-battle-royale.html", "http://senilo.pythonanywhere.com/static/trbr/index.html"],
+        "image": "https://i.imgur.com/JyDjWyY.jpg"
     }
 ]
