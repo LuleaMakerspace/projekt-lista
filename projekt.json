@@ -80,7 +80,7 @@
         "title": "The Real Battle Royale",
         "description": "Ensam kvar vinner!",
         "author": "Anton Olason",
-        "links": ["https://olason.se/the-real-battle-royale.html", "http://senilo.pythonanywhere.com/static/trbr/index.html"],
+        "links": ["https://olason.se/the-real-battle-royale.html", "https://s3.eu-central-1.amazonaws.com/projekt.luleamakerspace.se/assets/The+Real+Battle+Royale/index.html"],
         "image": "https://i.imgur.com/JyDjWyY.jpg"
     }
 ]
