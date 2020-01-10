@@ -82,5 +82,26 @@
         "author": "Anton Olason",
         "links": ["https://olason.se/the-real-battle-royale.html", "https://s3.eu-central-1.amazonaws.com/projekt.luleamakerspace.se/assets/The+Real+Battle+Royale/index.html"],
         "image": "https://i.imgur.com/JyDjWyY.jpg"
+    },
+    {
+        "title": "Pirate Commander: The Search for the Fat Shark",
+        "description": "Du är piratkaptenen! Använd din röst för att ge order till din besättning! Besegra fiender, samla skatter, upplev ett episkt äventyr! Vågar du söka och besegra den ondskefulla feta hajen?
+
+För röststyrning måste taligenkänning för engelska vara installerat i Windows, gå till inställningar->språk. Använd helst en kontroll, eller styr med tangentbordet: WASD för att styra och skjut med IJKL (eller röst!).
+
+Röstkommandon:
+shoot
+fire
+faster
+slower
+left, turn left, right, turn starboard, starboard
+hard left, hard right
+turn around left, turn around right
+reverse, back
+jump, fly, land, god mode, surrender, kill all, UNLIMITED POWER!!! (russia)
+",
+        "author": "Filip Andersson, Einar Cederlund, Oscar Lundberg, Anton Olason, Ernesto Perez Olsson",
+        "links": ["https://youtu.be/0ohblI7De6s", "https://youtu.be/v8iqyIrYD2c", "https://olason.s3.eu-central-1.amazonaws.com/pirate-commander/PirateCommander.7z"],
+        "image": "https://imgur.com/JsEYBlt"
     }
 ]
